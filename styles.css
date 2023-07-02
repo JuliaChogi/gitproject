@@ -6,3 +6,8 @@ h1 {
 h2 {
     background-color: violet;
 }
+h3 {
+    color: violet;
+    font-size: 15px;
+    font-weight: lighter;
+}
